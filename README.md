@@ -24,7 +24,7 @@
 
 <img align="right" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="425" alt="Focused Developer Animation">
 
-### 🔥 About Me 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&pause=1000&color=4FC3F7&center=false&vCenter=true&repeat=false&width=400&height=40&lines=%F0%9F%94%A5+About+Me" alt="About Me">
 
 ```text
 I'm a passionate Software Engineer
@@ -43,10 +43,10 @@ high-performance applications.
   <img src="assets/line-neon-blue.svg" width="100%">
 </div>
 
-### 💻 Tech Stack & Tools
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&pause=1000&color=4FC3F7&center=false&vCenter=true&repeat=false&width=400&height=40&lines=%F0%9F%92%BB+Tech+Stack+%26+Tools" alt="Tech Stack">
 
 <div align="center">
-  <p>Languages, Frameworks, & Tools I use to build robust solutions:</p>
+  <p>Languages, Frameworks, & Tools</p>
   <br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=flutter,dart,c,cpp,python,js,html,css,solidity,react,nodejs,git,github,linux,docker,vscode&perline=8" alt="tech stack" />
@@ -61,10 +61,10 @@ high-performance applications.
   <img src="assets/line-neon-blue.svg" width="100%">
 </div>
 
-### 📈 Stats
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&pause=1000&color=4FC3F7&center=false&vCenter=true&repeat=false&width=400&height=40&lines=%F0%9F%93%88+Stats" alt="Stats">
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohxnreddy&hide_border=true&background=20005E&ring=4FC3F7&fire=4FC3F7&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=4FC3F7&sideLabels=4FC3F7&dates=FFFFFF" alt="rohxnreddy's Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohxnreddy&hide_border=true&background=00000000&ring=4FC3F7&fire=4FC3F7&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=4FC3F7&sideLabels=4FC3F7&dates=FFFFFF" alt="rohxnreddy's Streak" />
 </div>
 
 <!-- Footer -->
