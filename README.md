@@ -48,10 +48,10 @@ high-performance applications.
 <div align="center">
   <br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,c,cpp,python,js,html,css,solidity,react,nodejs,git,github,linux,docker,vscode&perline=8" alt="tech stack" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,html,css,flutter,dart,fastapi,mysql,postgres,bash,git,github,linux,docker,vscode,githubactions,nodejs&perline=10" alt="Tech Stack" />
   </a>
 </div>
-
+  
 <br>
 
 
