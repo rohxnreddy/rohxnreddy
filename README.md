@@ -26,7 +26,7 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=rohxnreddy&label=Views&color=4FC3F7&style=for-the-badge" alt="views" />
 </div>
-<img align="right" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="350" alt="Focused Developer Animation">
+<img align="right" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="480" alt="Focused Developer Animation">
 
 ### 🔥 About Me 
 
