@@ -21,11 +21,7 @@
   <img src="assets/line-neon-blue.svg" width="100%">
 </div>
 
-<!-- Profile Views -->
-<br>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=rohxnreddy&label=Views&color=4FC3F7&style=for-the-badge" alt="views" />
-</div>
+
 <img align="right" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="425" alt="Focused Developer Animation">
 
 ### 🔥 About Me 
@@ -65,7 +61,7 @@ high-performance applications.
   <img src="assets/line-neon-blue.svg" width="100%">
 </div>
 
-### 📈 The Beast Stats
+### 📈 Stats
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohxnreddy&hide_border=true&background=20005E&ring=4FC3F7&fire=4FC3F7&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=4FC3F7&sideLabels=4FC3F7&dates=FFFFFF" alt="rohxnreddy's Streak" />
