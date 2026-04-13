@@ -1,13 +1,12 @@
 <!-- Beautiful animated banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4FC3F7,100:20005E&height=180&section=header&text=Rohan%20Reddy&fontSize=70&animation=fadeIn&fontAlignY=40" />
-
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=25&pause=1000&color=4FC3F7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Rohan!+👋;Software+Engineer+💻;Full-Stack+Architect+🛠️;Building+Scalable+Systems+🚀" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4FC3F7,100:20005E&height=180&section=header&text=Rohan%20Reddy&fontSize=70&animation=fadeIn&fontAlignY=40" style="display:block; margin:0 auto;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=25&pause=1000&color=4FC3F7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Rohan!+👋;Software+Engineer+💻;Full-Stack+Architect+🛠️;Building+Scalable+Systems+🚀" alt="Typing SVG" style="display:block; margin:0 auto; margin-top: -30px;" />
 </div>
 
 <!-- Social Links -->
 <div align="center">
-  <a href="https://linkedin.com/in/rohanreddy" target="_blank">
+  <a href="https://www.linkedin.com/in/rohanreddyd" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-20005E?style=for-the-badge&logo=linkedin&logoColor=4FC3F7" alt="LinkedInBadge"/>
   </a>
   <a href="https://instagram.com/rohxn.reddy" target="_blank">
