@@ -12,7 +12,7 @@
   <a href="https://instagram.com/rohxn.reddy" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-20005E?style=for-the-badge&logo=instagram&logoColor=4FC3F7" alt="InstagramBadge"/>
   </a>
-  <a href="mailto:contact.roh4n.code@gmail.com" target="_blank">
+  <a href="mailto:roh4n.code@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-20005E?style=for-the-badge&logo=gmail&logoColor=4FC3F7" alt="EmailBadge"/>
   </a>
 </div>
@@ -25,11 +25,13 @@
 <br>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=rohxnreddy&label=Views&color=4FC3F7&style=for-the-badge" alt="views" />
-<table align="center" style="border: none;">
-  <tr style="border: none;">
-    <td width="50%" align="left" style="border: none;">
-      <h3>🔥 About Me </h3>
-<pre><code>I'm a passionate Software Engineer
+</div>
+<img align="right" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="350" alt="Focused Developer Animation">
+
+### 🔥 About Me 
+
+```text
+I'm a passionate Software Engineer
 building robust, scalable systems and
 high-performance applications.
 
@@ -37,13 +39,9 @@ high-performance applications.
 🌱 Learning: Distributed Systems & Arch
 💡 Philosophy: Code should be modular,
    beautifully engineered, & performant.
-📫 Reach me: Hit any of my socials!</code></pre>
-    </td>
-    <td width="50%" align="center" style="border: none;">
-      <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="400" alt="Focused Developer Animation">
-    </td>
-  </tr>
-</table>
+📫 Reach me: Hit any of my socials!
+```
+<br clear="both">
 
 <div align="center">
   <img src="assets/line-neon-blue.svg" width="100%">
