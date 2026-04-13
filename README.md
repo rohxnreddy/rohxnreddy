@@ -1,7 +1,7 @@
 <!-- Beautiful animated banner -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4FC3F7,100:20005E&height=180&section=header&text=Rohan%20Reddy&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=40" style="display:block; margin:0 auto;" />
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=25&pause=1000&color=4FC3F7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Rohan!+👋;Software+Engineer+💻;Full-Stack+Architect+🛠️;Building+Scalable+Systems+🚀" alt="Typing SVG" style="display:block; margin:0 auto; margin-top: -30px;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=25&pause=1000&color=4FC3F7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Rohan!+👋;Software+Engineer+💻;Full+Stack+Developer+🛠️;Building+Scalable+Systems+🚀" alt="Typing SVG" style="display:block; margin:0 auto; margin-top: -30px;" />
 </div>
 
 <!-- Social Links -->
@@ -27,15 +27,15 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&pause=1000&color=4FC3F7&center=false&vCenter=true&repeat=false&width=400&height=40&lines=%F0%9F%94%A5+About+Me" alt="About Me">
 
 ```text
-I'm a passionate Software Engineer
+I'm a Passionate Software Engineer
 building robust, scalable systems and
 high-performance applications.
 
-🔭 Working on: Phone Pathology 
-🌱 Learning: Distributed Systems & Arch
-💡 Philosophy: Code should be modular,
-   beautifully engineered, & performant.
-📫 Reach me: Hit any of my socials!
+🔭 Working on: Android App Development 
+🌱 Learning: Systems Design & Architecture
+💡 Intrested in: AI, ML and Neural Networks
+🏛️ Principle: Simplicity - Scalability - Performance
+📫 Reach me: Via any of my socials!
 ```
 <br clear="both">
 
@@ -46,7 +46,6 @@ high-performance applications.
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&pause=1000&color=4FC3F7&center=false&vCenter=true&repeat=false&width=400&height=40&lines=%F0%9F%92%BB+Tech+Stack+%26+Tools" alt="Tech Stack">
 
 <div align="center">
-  <p>Languages, Frameworks, & Tools</p>
   <br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=flutter,dart,c,cpp,python,js,html,css,solidity,react,nodejs,git,github,linux,docker,vscode&perline=8" alt="tech stack" />
